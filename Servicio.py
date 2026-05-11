@@ -26,4 +26,4 @@ if __name__ == '__main__':
         else:
             parar_Proceso(nombre_Proceso)
 
-        time.sleep(5)  
+        time.sleep(10)  
